@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "CLASSBASE.Override.test",
+            "projectName": "CODE_JAVA_dc37212f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "CODE_JAVA_dc37212f"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - inheritedtest",
             "request": "launch",
             "mainClass": "CLASSBASE.Inherited.inheritedtest",
