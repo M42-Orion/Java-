@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Overloading",
+            "request": "launch",
+            "mainClass": "CLASSBASE.Overload.Overloading",
+            "projectName": "CODE_JAVA_dc37212f"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - test",
             "request": "launch",
             "mainClass": "CLASSBASE.Override.test",
