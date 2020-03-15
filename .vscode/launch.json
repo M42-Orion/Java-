@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - VirtualDemo",
+            "request": "launch",
+            "mainClass": "CLASSBASE.Polymorphic.VirtualDemo",
+            "projectName": "CODE_JAVA_dc37212f"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Overloading",
             "request": "launch",
             "mainClass": "CLASSBASE.Overload.Overloading",
