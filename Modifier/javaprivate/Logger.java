@@ -1,4 +1,4 @@
-package javaprivate;
+package Modifier.javaprivate;
 
 /**
  * InnerLogger

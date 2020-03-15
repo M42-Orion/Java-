@@ -1,6 +1,6 @@
-package javaprivate;
+package Modifier.javaprivate;
 
-import classBasis.*;/**
+import Modifier.classBasis.*;/**
  * test
  */
 public class test {

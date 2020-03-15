@@ -8,6 +8,13 @@
             "type": "java",
             "name": "CodeLens (Launch) - test",
             "request": "launch",
+            "mainClass": "Modifier.javaprivate.test",
+            "projectName": "CODE_JAVA_dc37212f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
             "mainClass": "javaprivate.test",
             "projectName": "CODE_JAVA_dc37212f"
         },
